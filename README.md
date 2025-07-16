@@ -16,3 +16,14 @@ In recent years, the guitar has received increased attention from the music info
 
 ## Examples
 Please refer to the `audio-examples` directory. This directory also contains the corresponding MIDI and tablatures for the example audio.
+
+## Citation
+If you would like to cite this work, please use the following citation:
+```
+@inproceedings{loth_goat_2025,
+  author = {Loth, Jackson and Sarmento, Pedro and Sarkar, Saurjya and Guo, Zixun and Barthet, Mathieu and Sandler, Mark},
+  booktitle = {Proceedings of the 26nd International Society for Music Information Retrieval Conference},
+  title = {{GOAT: A Large Dataset of Paired Guitar Audio Recordings and Tablatures}},
+  year = {2025}
+}
+```
